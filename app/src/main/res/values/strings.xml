@@ -1,0 +1,47 @@
+<resources>
+    <string name="database_name">AlmacenElectroDB</string>
+
+    <string name="app_name">AlmacenFastSecurity</string>
+    <string name="stock_electrodomesticos">Stock de Electrodomestico</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+    <string name="enviar">Enviar</string>
+    <string name="recibir">Recibir</string>
+    <string name="movimiento">En Movimiento</string>
+    <string name="pedidospendientes">Pedidos Pendientes</string>
+
+    <string name="ingresar">Ingresar</string>
+    <string name="detalle_de_guia">Detalle de Guia</string>
+    <string name="nombre_proveedor">Nombre Proveedor</string>
+    <string name="num_guia">N° Guia</string>
+    <string name="fecha_de_llegada">Fecha de llegada</string>
+    <string name="agregar_productos">AGREGAR PRODUCTOS</string>
+    <string name="listarproductos">Listar Productos</string>
+    <string name="menuprincipal">Menu Principal</string>
+    <string name="detalle_de_producto">Detalle de Producto</string>
+    <string name="marca">Marca</string>
+    <string name="nombre">Nombre</string>
+    <string name="trabajador_que_recibio">Trabajador que recibio</string>
+    <string name="guardar_guia">Guardar Guia</string>
+    <string name="producto">Producto</string>
+    <string name="finalizar">FINALIZAR</string>
+    <string name="lista_productos_guia">Lista de Productos de Guia</string>
+    <string name="detalle_de_la_guia">Detalle de la Guia</string>
+    <string name="nombre_de_empleado">Nombre de Empleado</string>
+    <string name="numero_de_guia">Numero de Guia</string>
+    <string name="recepcion_de_guia">Recepcion de Guia</string>
+    <string name="nombre_del_proveedor">Nombre del Proveedor</string>
+    <string name="ruc">RUC</string>
+    <string name="razon_social">Razon Social</string>
+    <string name="telefono">Telefono</string>
+    <string name="proveedores">Proveedores</string>
+    <string name="empleado">EMPLEADO</string>
+    <string name="dni">DNI</string>
+    <string name="cargo">Cargo</string>
+    <string name="proveedor">Proveedor</string>
+    <string name="ruc_proveedor">Ruc del Proveedor</string>
+    <string name="guardar">Guardar</string>
+    <string name="modelo">Modelo</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="categoria">Categoria</string>
+    <string name="editar_producto">Editar Producto</string>
+</resources>
